@@ -1,0 +1,2 @@
+# lazy
+apt-get update
