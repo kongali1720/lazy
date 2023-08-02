@@ -19,7 +19,7 @@ Features of lazy :
 
     $ apt-get update
     $ cd Desktop
-    $ git clone https://github.com/kongali1720/lscript.git 
+    $ git clone https://github.com/nfc-tools/miLazyCracker
     $ cd lscript
     $ chmod +x install.sh
     $ ./install.sh
